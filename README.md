@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Iury Nogueira
 
-  Olá! Meu nome é Iury Kauann David Nogueira, tenho 21 anos, sou natural da Bahia e um entusiasta de tecnologia. Atualmente, estou cursando Ciência da Computação na UFAL e buscando aprender e contribuir cada vez mais no universo da programação.
+  Olá! Meu nome é Iury Kauann David Nogueira, tenho 21 anos, sou natural da Bahia e um entusiasta da tecnologia. Atualmente, estou cursando Ciência da Computação na UFAL e buscando aprender e contribuir cada vez mais no universo da programação.
 
 <p align="left">
     <a href="www.linkedin.com/in/iury-nogueira-a4255631a">
